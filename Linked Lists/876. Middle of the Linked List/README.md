@@ -1,5 +1,5 @@
 ## Problem
-[Problem Name](https://leetcode.com/problems/middle-of-the-linked-list)
+[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 
 ## Description
 Given the head of a singly linked list, return the middle node of the linked list.
